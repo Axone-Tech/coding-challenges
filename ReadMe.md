@@ -19,7 +19,7 @@ This repository provides a collection of technical coding questions for test aut
 >Solution:[java](java/find_the_longest_word_in_sentence.md), [typescript](typescript/find_the_longest_word_in_sentence.md), [javascript](javascript/find_the_longest_word_in_sentence.md)
 
 **Question:** Write a function to find the first non-repeated character in a string.
->Solution: [java](java/first_non_repeated_character_in _string.md), [typescript](typescript/first_non_repeated_character_in _string.md), [javascript](javascript/first_non_repeated_character_in _string.md)
+>Solution: [java](java/first_non_repeated_character_in_string.md), [typescript](typescript/first_non_repeated_character_in_string.md), [javascript](javascript/first_non_repeated_character_in_string.md)
 
 **Question:** Write a function that prints the numbers from 1 to 100. For multiples of 3, print "Fizz" instead of the number. For multiples of 5, print "Buzz". For numbers which are multiples of both 3 and 5, print "FizzBuzz".
 >Solution: [java](java/fizz_buzz.md), [typescript](typescript/fizz_buzz.md), [javascript](javascript/fizz_buzz.md)
@@ -37,7 +37,7 @@ This repository provides a collection of technical coding questions for test aut
 >Solution: [java](java/most_frequent_number.md), [typescript](typescript/most_frequent_number.md), [javascript](javascript/most_frequent_number.md)
 
 **Question:** Write a function to check if a given number is prime.
->Solution: [java](java/number _is_prime.md), [typescript](typescript/number _is_prime.md), [javascript](javascript/number _is_prime.md)
+>Solution: [java](java/check_number_is_prime.md), [typescript](typescript/check_number_is_prime.md), [javascript](javascript/check_number_is_prime.md)
 
 **Question:** Write a function to check if a given string is a palindrome.
 >Solution: [java](java/palindrome.md), [typescript](typescript/palindrome.md), [javascript](javascript/palindrome.md)
